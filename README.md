@@ -30,7 +30,7 @@ The project is contained within a single Jupyter Notebook (`titanic_kaggle.ipynb
 
 To run this notebook, follow these steps:
 
-1.  Clone the repository (if this were a real repo):
+1.  Clone the repository :
     ```bash
     git clone [repository_url]
     ```
